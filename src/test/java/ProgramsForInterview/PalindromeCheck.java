@@ -27,7 +27,7 @@ public class PalindromeCheck {
 		}
 		
 
-	
+	//Ignore this. This is for Github practice
 	}
 
 }
